@@ -1,0 +1,88 @@
+[
+  {
+    "item": {
+      "value": "Q6787614",
+      "label": "Matiu Rata"
+    },
+    "statement": "Q6787614$F81676FF-A0BB-47B7-A23C-689672E43995"
+  },
+  {
+    "item": {
+      "value": "Q618651",
+      "label": "Apirana Ngata"
+    },
+    "replaces": {
+      "value": "Q731342",
+      "label": "Joseph Gordon Coates"
+    },
+    "replacedBy": {
+      "value": "Q775773",
+      "label": "George Forbes"
+    },
+    "statement": "q618651$7b762934-48a7-4c7d-bb96-1d2233434af7",
+    "ordinal": "22",
+    "start": "1928-12-10T00:00:00Z",
+    "end": "1934-11-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q15969870",
+      "label": "Koro Wētere"
+    },
+    "replaces": {
+      "value": "Q4885467",
+      "label": "Ben Couch"
+    },
+    "replacedBy": {
+      "value": "Q1396178",
+      "label": "Winston Peters"
+    },
+    "statement": "Q15969870$eb9cdd1a-4ae5-f23f-5c0d-a9d8c28b3252",
+    "start": "1984-07-26T00:00:00Z",
+    "end": "1990-11-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1396178",
+      "label": "Winston Peters"
+    },
+    "replaces": {
+      "value": "Q15969870",
+      "label": "Koro Wētere"
+    },
+    "replacedBy": {
+      "value": "Q5300629",
+      "label": "Doug Kidd"
+    },
+    "statement": "Q1396178$986A9BCC-CDBF-4773-B615-FD8ADC3C4AB1",
+    "ordinal": "35",
+    "start": "1990-01-01T00:00:00Z",
+    "end": "1991-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3562630",
+      "label": "Parekura Horomia"
+    },
+    "replaces": {
+      "value": "Q5302516",
+      "label": "Dover Samuels"
+    },
+    "replacedBy": {
+      "value": "Q186074",
+      "label": "Pita Sharples"
+    },
+    "statement": "Q3562630$F309629C-DA4D-41C5-99EB-335554915DBC",
+    "ordinal": "41",
+    "start": "2000-07-26T00:00:00Z",
+    "end": "2008-12-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3798833",
+      "label": "Nanaia Mahuta"
+    },
+    "statement": "Q3798833$22d962c2-42cf-b432-b08e-da1d7411d47d",
+    "start": "2017-10-25T00:00:00Z"
+  }
+]
