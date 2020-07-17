@@ -29,7 +29,7 @@ def compare(wp, wd)
     end
 
     if (!wd_value.to_s.empty? && (wp_value != wd_value))
-      warn "*** MISMATCH for #{wp[:id]} #{property} ***: WD = #{wd_value} / WP = #{wp_value}"
+      warn "*** MISMATCH for #{wp[:name]} #{InputFile::MAPPING[property].first}: #{wd_value} → #{wp_value}"
       warn "\t" + [wd[:statement], property.to_s, wd_value, wp_value].join(' ')
       next
     end
