@@ -92,4 +92,28 @@ Those all look fine, so I'll accept them en masse using
 Step 8: Refresh the Tracking Page
 =================================
 
+This gives us https://www.wikidata.org/w/index.php?title=Talk:Q991876&oldid=1232928711, 
+which isn't quite right!
+
+I had overlooked that enwiki gives John Ballance two sets of dates in
+the one row, and that the scraper got someone confused by this, deciding
+that his dates were actually 18843-08-1 – 18848-08-2!
+
+If I had noticed this in advance, I'd probably have adjusted the scraper
+to try to cope with it, but now it's probably easiest to just edit them
+manually. (I'm going to combine them into one period though, as I can't
+see any explanation for the split. Someone else can always split them up
+in Wikidata later)
+
+There's also a mistmatch in dates with both Dillon Bell and William Fox
+being listed as 18 December 1861–30 October 1863 (though under different
+Prime Ministers). Bell's infobox gives 6 August 1862 – 30 October 1863,
+which would match the dates of Domett as Premier, but that leaves things
+other gaps and overlaps, and I can't find a good source to resolve
+these.
+
+So I think I'm going to leave a provisionl final version as
+https://www.wikidata.org/w/index.php?title=Talk:Q991876&oldid=1232947367
+and hope someone else cleans these up.
+
 
